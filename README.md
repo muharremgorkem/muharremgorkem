@@ -20,7 +20,7 @@ Lately, my interest has been captivated by the field of data science and machine
 
 You can find my projects here:
 
-[Data Science Portfolio](https://github.com/....)
+[Data Science Portfolio](https://github.com/muharremgorkem?tab=repositories)
 
 ### Connect with me:
 | [Linkedin](https://www.linkedin.com/in/muharrem-gorkem/) | [Kaggle](https://www.kaggle.com/muharremg)  | **muharrem.gorkem@gmail.com**
