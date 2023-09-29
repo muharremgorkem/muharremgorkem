@@ -9,14 +9,7 @@
 
 I have over 15 years of experience in the banking sector and now I am looking to pursue my career as a data scientist. I have worked in various areas such as internal audit, retail banking branch manager and branch manager. These experiences have allowed me to enhance my analytical skills, understand large datasets, and make data-driven decisions.
 
-Lately, my interest has been captivated by the field of data science and machine learning. I am continuously developing my skills in data analysis and modeling and aiming to gain more experience in the following areas:
-
--  Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib),
--  Data Science,
--  Big Data,
--  Machine Learning,
--  Artificial Intelligence(AI),
--  Deep Learning,
+Lately, my interest has been captivated by the field of data science and machine learning. I am continuously developing my skills in data analysis and modeling and aiming to gain more experience in this field. I have completed multiple certifications and I have skills in statistical analysis, data analysis, and machine learning. I am passionate about applying data science to solve real-world problems and create innovative solutions. I am eager to learn from and collaborate with other data professionals and experts. I am confident that I can bring a diverse and valuable perspective and experience to the data science team. 
 
 You can find my projects here:
 
