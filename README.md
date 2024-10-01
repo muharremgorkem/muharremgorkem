@@ -6,10 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I have over 15 years of experience in the banking sector and now I am looking to pursue my career as a data scientist. I have worked in various areas such as internal audit, retail banking branch manager and branch manager. These experiences have allowed me to enhance my analytical skills, understand large datasets, and make data-driven decisions.
+I have over 15 years of experience in the banking sector. I have worked in various areas such as internal audit, retail banking branch manager and branch manager. These experiences have allowed me to enhance my analytical skills, understand large datasets, and make data-driven decisions.
 
-Lately, my interest has been captivated by the field of data science and machine learning. I am continuously developing my skills in data analysis and modeling and aiming to gain more experience in this field. I have completed multiple certifications and I have skills in statistical analysis, data analysis, and machine learning. I am passionate about applying data science to solve real-world problems and create innovative solutions. I am eager to learn from and collaborate with other data professionals and experts. I am confident that I can bring a diverse and valuable perspective and experience to the data science team. 
-
+Lately, my interest has been captivated by the field of data science and machine learning. I am continuously developing my skills in data analysis and modeling and aiming to gain more experience in this field. I have completed multiple certifications and I have skills in statistical analysis, data analysis, and machine learning. I am passionate about applying data science to solve real-world problems and create innovative solutions. I am eager to learn from and collaborate with other data professionals and experts. 
 You can find my projects here:
 
 [Data Science Portfolio](https://github.com/muharremgorkem?tab=repositories)
