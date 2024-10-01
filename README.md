@@ -1,7 +1,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/03/Machine-Learning-Model.gif">
 <h1 align="center">Hi 👋, I'm Muharrem GÖRKEM</h1>
-<h3 align="center">A passionate Jr.Data Scientist & Jr.Data Analist from Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muharremgorkem&label=Profile%20views&color=0e75b6&style=flat" alt="muharremgorkem" /> </p>
 
