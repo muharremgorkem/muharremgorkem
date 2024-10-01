@@ -1,4 +1,3 @@
-
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/03/Machine-Learning-Model.gif">
 <h1 align="center">Hi 👋, I'm Muharrem GÖRKEM</h1>
 
